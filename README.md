@@ -1,1 +1,7 @@
-# BOOTSTRAP_1
+<h1>HTML5 CSS3 VE BOOTSTRAP KULLANILARAK İLK PROJE TAMAMLANDI<h1>
+
+<h3>Çalışma ilk BOOTSTRAP çalışmasıdır.<h3>
+
+<h3>KISA TANITIM VİDEOSU<h3>
+
+![](tanıtım.gif)
